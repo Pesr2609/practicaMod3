@@ -1,4 +1,5 @@
 # practicaMod3
-git add .
-git commit -m "Agrega configuracion de base de datos y archivos del proyecto"
-git push origin main
+git status--- ver modificacion
+git add .---agregar modificaciones
+git commit -m "Agrega configuracion de base de datos y archivos del proyecto"--- aceotar modificaciones
+git push origin main--generar modificaciones
